@@ -1,4 +1,4 @@
-# AI Manager Starter Kit - Package Index
+# AI Management Toolkit - Package Index
 
 This package turns the management content into a reusable AI skill for small-team managers.
 

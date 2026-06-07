@@ -23,24 +23,24 @@ ai-management-toolkit.zip
 ## Test prompts
 
 ```text
-Use the AI Manager Starter Kit. Here are my Friday notes. Create next week's operating plan.
+Use the AI Management Toolkit. Here are my Friday notes. Create next week's operating plan.
 [Paste notes]
 ```
 
 ```text
-Use the AI Manager Starter Kit. Help me prepare a one-on-one with an employee who missed a deadline twice but also helped the team solve a customer issue.
+Use the AI Management Toolkit. Help me prepare a one-on-one with an employee who missed a deadline twice but also helped the team solve a customer issue.
 ```
 
 ```text
-Use the AI Manager Starter Kit. We have three options for a delayed launch: cut scope, add a contractor, or move the deadline. Create a decision brief.
+Use the AI Management Toolkit. We have three options for a delayed launch: cut scope, add a contractor, or move the deadline. Create a decision brief.
 ```
 
 ```text
-Use the AI Manager Starter Kit. Turn these meeting notes into decisions, action items, blockers, and follow-up messages.
+Use the AI Management Toolkit. Turn these meeting notes into decisions, action items, blockers, and follow-up messages.
 [Paste notes]
 ```
 
 ```text
-Use the AI Manager Starter Kit. Review this team's workload and rebalance assignments.
+Use the AI Management Toolkit. Review this team's workload and rebalance assignments.
 [Paste team/workload]
 ```

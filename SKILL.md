@@ -3,7 +3,7 @@ name: ai-management-toolkit
 description: Practical toolkit for small-team managers. Use when the user wants help planning weekly team work, running meetings, diagnosing blockers, giving feedback, coaching employees, making SWOT/5W2H/root-cause/PDCA decisions, reviewing performance, running one-on-ones, breaking work into SMART goals and WBS tasks, balancing team workload, creating manager routines, or turning messy team notes into an operating plan.
 ---
 
-# AI Manager Starter Kit
+# AI Management Toolkit
 
 ## Purpose
 
