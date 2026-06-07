@@ -4,7 +4,7 @@ A practical Claude skill for small-team managers. It turns scattered notes, task
 
 ## What it does
 
-The skill follows a weekly operating loop:
+The skill follows a weekly operating process:
 
 1. **Plan** the work
 2. **Align** the team
@@ -58,3 +58,9 @@ ai-management-toolkit/
 ## Note
 
 This skill helps draft and organize management work. Sensitive HR, legal, compensation, and termination decisions require human review and appropriate company policy checks. The manager owns every decision.
+
+## License
+
+© 2026 Weiwei Hu. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may share this work with attribution, but **not** use it commercially or distribute modified versions. For any other use, please contact me for permission. See [LICENSE](LICENSE) for full terms.
