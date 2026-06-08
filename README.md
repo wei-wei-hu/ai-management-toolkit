@@ -53,6 +53,33 @@ The skill follows a weekly operating process:
 
 It routes each request to the right template — SMART goals, WBS, RACI, SWOT, 5W2H, root-cause, PDCA, one-on-ones, feedback scripts, and weekly reviews.
 
+## A week with the toolkit
+
+The routine maps onto a normal workweek, so each day has one clear management job:
+
+| Day | Focus |
+|---|---|
+| **Monday** | Plan the work |
+| **Tuesday** | Run the team meeting |
+| **Wednesday** | Coach and give feedback |
+| **Thursday** | Make decisions and adjust work |
+| **Friday** | Review performance and prepare next week |
+
+Friday's review becomes Monday's starting point — that's the loop. With continuity turned on (see above), Monday also reads last week, so unfinished work, repeat blockers, and overdue check-ins carry over instead of getting lost.
+
+## What's inside
+
+The package isn't vague advice — it's a counted set of ready-to-use building blocks the skill routes between:
+
+- **30 prompts** for planning, meetings, blockers, feedback, decisions, recognition, workload balance, and weekly reflection.
+- **10 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, and employee development.
+- **10 feedback scripts** for praise, teamwork, problem-solving, missed deadlines, quality issues, communication gaps, prioritization, leadership growth, and performance concerns.
+- **10 work planning templates** using SMART goals, WBS, RACI, progress tracking, project risk planning, and team capacity.
+- **5 decision templates** using SWOT, 5W2H, option comparison, root-cause analysis, and PDCA.
+- **5 performance review templates** for annual reviews, quarterly check-ins, promotion readiness, performance improvement, and employee growth.
+
+That's **30 prompts and 40 templates and scripts**, plus one weekly routine that ties them together.
+
 ## Install
 
 This is a personal Claude Code skill. Drop the folder into your skills directory:
