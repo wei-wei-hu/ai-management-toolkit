@@ -107,16 +107,11 @@ ai-management-toolkit/
     └── trigger-examples.md
 ```
 
-## The weekly loop (continuity)
+## How continuity works
 
-The toolkit's highest-value feature is that it can build on last week instead of starting cold. Save each week's plan in `journal/` (the skill does this for you), and every Monday it will:
+Continuity runs on a simple convention. Each week's plan is saved as one dated file in `journal/` — the skill writes it for you — and every Monday it reads the most recent one before planning the new week. That's the mechanism behind everything in "A week with the toolkit" above: carrying work forward, spotting multi-week slips, and catching repeat blockers. The [Example](#example) below shows what it produces.
 
-- **Carry forward** unfinished work automatically — nothing silently drops.
-- **Flag slipping tasks** — an item carried 3 weeks is surfaced as a pattern, not re-deadlined.
-- **Catch repeat blockers** — the same dependency blocking two weeks running gets escalated.
-- **Track people cadence** — anyone overdue for a 1:1 or feedback gets flagged before it becomes a problem.
-
-See `resources/weekly-continuity.md` for the full logic. Keep real journal entries private if your repo is public — they describe real people.
+Full logic lives in `resources/weekly-continuity.md`. One caution: journal entries describe real people, so keep them private if your repo is public — the included example uses fictional names.
 
 ## Example
 
