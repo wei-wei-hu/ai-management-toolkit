@@ -20,7 +20,7 @@ The templates in here are useful, but they're easy to find elsewhere. The part t
 
 **Guardrails: it stays grounded and accountable.**
 
-- **It doesn't fabricate.** It uses only the facts you give it, and won't invent employee behavior, performance history, or HR details. (A common pitfall when using AI for people decisions.)
+- **It doesn't make things up.** It uses only the facts you give it, and won't invent employee behavior, performance history, or HR details. (A common pitfall when using AI for people decisions.)
 - **It builds in accountability.** Each decision and action item carries an owner, a deadline, and a follow-up.
 - **It keeps feedback fair and grounded.** It separates facts, impact, expectations, and support, which helps hard conversations stay specific and fair.
 
