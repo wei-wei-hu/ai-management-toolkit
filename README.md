@@ -8,21 +8,21 @@ Practical AI management toolkit: weekly planning, meeting agendas, feedback scri
 
 *From one-off prompting to a weekly operating workflow. A quick look at how it works.*
 
-A Claude skill for managers who'd rather run their team deliberately than from memory. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs like weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews. And it remembers across weeks, so nothing quietly drifts.
+A Claude skill for managers who'd rather run their team deliberately than from memory. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs like weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews. And it keeps track across weeks, so things are less likely to quietly slip by.
 
 ## Why this exists
 
-Most management work fails in the same place: not in *making* the plan, but in **follow-through and pattern-recognition**. The task that's quietly slipped four weeks. The strong report who hasn't had a real 1:1 in a month. The blocker that's been "handled" for three weeks running. None of that shows up in any single week. It only shows up if you're tracking across weeks, and almost no one is. Most managers run on memory, and memory leaks.
+The hard part of managing usually isn't *making* the plan. It's the **follow-through and pattern-recognition** that come after. A task that's quietly slipped a few weeks. A report you haven't had a real 1:1 with in a while. A blocker that's been "handled" for a couple of weeks. These are easy to lose track of in any single week, and they tend to show up only when you look across several. When you're holding it all in your head, some of it slips.
 
-This toolkit isn't really about the templates. Those are easy to find. Its value is in two things memory can't give you:
+The templates in here are useful, but they're easy to find elsewhere. The part that's harder to do on your own is two things:
 
-**Continuity: it doesn't forget.** Each week builds on the last. Unfinished work carries forward automatically, tasks slipping multiple weeks get flagged as patterns (not just re-deadlined), repeat blockers get escalated, and anyone overdue for a 1:1 gets surfaced before it becomes a problem.
+**Continuity: it keeps track week to week.** Each week builds on the last. Unfinished work carries forward, tasks slipping several weeks get flagged as a pattern rather than just re-deadlined, repeat blockers get surfaced, and anyone overdue for a 1:1 gets noted before it becomes a problem.
 
-**Guardrails: it stays honest and accountable.**
+**Guardrails: it stays grounded and accountable.**
 
-- **It never fabricates.** It uses only the facts you give it, and refuses to invent employee behavior, performance history, or HR details. (The most common and most damaging failure mode of AI for management.)
-- **It forces accountability.** Every decision and action item must carry an owner, a deadline, and a follow-up.
-- **It keeps feedback fair and defensible.** It separates facts, impact, expectations, and support. That structure keeps hard conversations grounded and out of trouble.
+- **It doesn't fabricate.** It uses only the facts you give it, and won't invent employee behavior, performance history, or HR details. (A common pitfall when using AI for people decisions.)
+- **It builds in accountability.** Each decision and action item carries an owner, a deadline, and a follow-up.
+- **It keeps feedback fair and grounded.** It separates facts, impact, expectations, and support, which helps hard conversations stay specific and fair.
 
 ## What it's for / not for
 
@@ -54,13 +54,13 @@ The routine maps onto a normal workweek, so each day has one clear management jo
 | **Thursday** | Make decisions and adjust work |
 | **Friday** | Review performance and prepare next week |
 
-In practice it's two small habits. **Every Friday**, jot three things: what got done, what's stuck, who needs attention. **Every Monday**, paste those in and ask for the week's plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, and the one or two hard conversations the week is pointing to. Ten minutes a week, and nothing falls through the cracks.
+In practice it's two small habits. **Every Friday**, jot three things: what got done, what's stuck, who needs attention. **Every Monday**, paste those in and ask for the week's plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, and the one or two conversations the week is pointing to. Ten minutes a week, and fewer things fall through the cracks.
 
-**Who it's for:** any manager who runs a team and refuses to do it from memory: first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more surface area you carry, the more the drift-catching is worth.)
+**Who it's for:** any manager who'd rather not run their team from memory: first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more you're juggling, the more the week-to-week tracking helps.)
 
 ## What's inside
 
-The package isn't vague advice. It's a counted set of ready-to-use building blocks the skill routes between:
+It's a concrete set of ready-to-use building blocks the skill routes between:
 
 - **30 prompts** for planning, meetings, blockers, feedback, decisions, recognition, workload balance, and weekly reflection.
 - **10 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, and employee development.
@@ -135,7 +135,7 @@ Full logic lives in `resources/weekly-continuity.md`. One caution: journal entri
 3. Get Sam's now-unblocked integration to done while momentum is there.
 ```
 
-Notice what a one-shot prompt can't do: it caught the **4-week slip** and told you to talk, not re-deadline; **closed the loop** on the repeat blocker; and **counted the weeks** since Priya's last 1:1 to flag burnout. Every flag traced to recorded facts, nothing invented.
+This is the kind of thing a single prompt tends to miss: it caught the **4-week slip** and suggested talking rather than re-deadlining, **closed the loop** on the repeat blocker, and **counted the weeks** since Priya's last 1:1 to flag possible burnout. Every flag traces back to recorded facts.
 
 ## Usage examples
 
