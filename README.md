@@ -1,6 +1,8 @@
 # AI Management Toolkit
 
-A practical Claude skill for small-team managers. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews.
+Practical AI management toolkit: weekly planning, meeting agendas, feedback scripts, performance reviews, and decision briefs.
+
+A Claude skill for small-team managers. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews.
 
 ## What it does
 
