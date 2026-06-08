@@ -26,6 +26,7 @@ Use the user's request to route to the right resource. Read only the files neede
 | User need | Read this resource | Typical output |
 |---|---|---|
 | Turn messy notes into a weekly team plan | `resources/manager-input-intake.md`, `resources/prompt-library.md`, `resources/work-planning-templates.md`, `resources/weekly-operating-map.md` | Weekly plan, owners, deadlines, top priorities, risks |
+| Plan a new week building on last week (carry forward unfinished work, catch repeat blockers and slipping tasks, flag overdue 1:1s) | `resources/weekly-continuity.md`, `journal/README.md`, plus the weekly-plan resources above | Weekly plan with a continuity summary, carried-forward items, repeat-blocker escalations, people-cadence flags |
 | Prepare or clean up a meeting | `resources/meeting-templates.md`, `resources/prompt-library.md` | Agenda, discussion order, decision points, action items |
 | Diagnose blockers, delays, or team friction | `resources/decision-templates.md`, `resources/work-planning-templates.md`, `resources/prompt-library.md` | Blocker diagnosis, owner clarification, risk plan |
 | Write feedback or coaching language | `resources/feedback-scripts.md`, `resources/meeting-templates.md`, `resources/performance-review-templates.md` | Feedback script, one-on-one agenda, growth plan |
@@ -46,6 +47,7 @@ These rules apply the method and safety guardrails in `resources/source-method.m
 - For decisions, name the recommendation, trade-offs, risks, evidence gaps, and next step.
 - For meetings, force every decision and action item to include owner, deadline, and follow-up mechanism.
 - For weekly planning, always connect Friday inputs to Monday planning: completed work, blocked/missed work, and people who need recognition, feedback, or support.
+- When a prior weekly plan exists in `journal/`, use `resources/weekly-continuity.md`: read the most recent journal file, carry forward unfinished work, flag tasks slipping multiple weeks and repeat blockers, surface anyone overdue for a 1:1, and save the new plan as `journal/YYYY-MM-DD-week.md`. Only carry forward or flag based on recorded facts — never invent a slip, blocker, or missed check-in.
 - Remind the user that sensitive HR, legal, compensation, and termination decisions need human review and appropriate company policy checks.
 - Avoid vague management language. Make outputs usable by a busy manager this week.
 

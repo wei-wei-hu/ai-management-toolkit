@@ -1,3 +1,8 @@
 .DS_Store
 .Rhistory
 .Rapp.history
+
+# Real weekly journal entries describe real people and real work.
+# Keep them out of the repo (especially if public). The README and the
+# fictional example-week.md are intentionally tracked.
+journal/[0-9]*-week.md

@@ -61,6 +61,7 @@ ai-management-toolkit/
 ├── SKILL.md                  # Skill definition + routing logic
 ├── resources/                # Templates, prompt library, operating map
 │   ├── weekly-operating-map.md
+│   ├── weekly-continuity.md   # Week-over-week loop: carry-forward + pattern detection
 │   ├── work-planning-templates.md
 │   ├── meeting-templates.md
 │   ├── feedback-scripts.md
@@ -70,10 +71,24 @@ ai-management-toolkit/
 │   ├── manager-input-intake.md
 │   ├── source-method.md
 │   └── kit-index.md
+├── journal/                  # One file per week — the saved plans continuity reads
+│   ├── README.md             # Convention + standard weekly file format
+│   └── example-week.md       # Fictional sample entry
 └── examples/                 # Trigger and install/test examples
     ├── install-and-test.md
     └── trigger-examples.md
 ```
+
+## The weekly loop (continuity)
+
+The toolkit's highest-value feature is that it can build on last week instead of starting cold. Save each week's plan in `journal/` (the skill does this for you), and every Monday it will:
+
+- **Carry forward** unfinished work automatically — nothing silently drops.
+- **Flag slipping tasks** — an item carried 3 weeks is surfaced as a pattern, not re-deadlined.
+- **Catch repeat blockers** — the same dependency blocking two weeks running gets escalated.
+- **Track people cadence** — anyone overdue for a 1:1 or feedback gets flagged before it becomes a problem.
+
+See `resources/weekly-continuity.md` for the full logic. Keep real journal entries private if your repo is public — they describe real people.
 
 ## Usage examples
 
