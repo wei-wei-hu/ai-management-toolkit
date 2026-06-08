@@ -2,28 +2,32 @@
 
 Practical AI management toolkit: weekly planning, meeting agendas, feedback scripts, performance reviews, and decision briefs.
 
-A Claude skill for small-team managers. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews.
+A Claude skill for managers who'd rather run their team deliberately than from memory. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews — and it remembers across weeks so nothing quietly drifts.
 
 ## Why this exists
 
-Most management work fails in the same two places: details get invented or forgotten, and decisions never get a clear owner or deadline. This toolkit isn't really about the templates — those are easy to find. Its value is the **guardrails** built into how it works:
+Most management work fails in the same place: not in *making* the plan, but in **follow-through and pattern-recognition**. The task that's quietly slipped four weeks. The strong report who hasn't had a real 1:1 in a month. The blocker that's been "handled" for three weeks running. None of that shows up in any single week — it only shows up if you're tracking across weeks, and almost no one is. Most managers run on memory, and memory leaks.
+
+This toolkit isn't really about the templates — those are easy to find. Its value is in two things memory can't give you:
+
+**Continuity — it doesn't forget.** Each week builds on the last: unfinished work carries forward automatically, tasks slipping multiple weeks get flagged as patterns (not just re-deadlined), repeat blockers get escalated, and anyone overdue for a 1:1 gets surfaced before it becomes a problem.
+
+**Guardrails — it stays honest and accountable.**
 
 - **It never fabricates.** It uses only the facts you give it, and refuses to invent employee behavior, performance history, or HR details. (The most common — and most damaging — failure mode of AI for management.)
 - **It forces accountability.** Every decision and action item must carry an owner, a deadline, and a follow-up.
 - **It keeps feedback fair and defensible.** It separates facts, impact, expectations, and support — the structure that keeps hard conversations grounded and out of trouble.
 
-Think of it as a **judgment scaffold**: it encodes what an experienced manager does instinctively, so a busy or newer manager can produce usable, responsible outputs in minutes.
-
 ## Best way to use it
 
-The highest-value loop is the weekly one:
+The highest-value use isn't a one-off prompt — it's a weekly habit:
 
 1. **Every Friday**, jot three things: what the team finished, what got blocked or missed, and who needs recognition, feedback, or support.
-2. **Every Monday**, paste those notes in and ask for next week's operating plan. The skill turns them into priorities, owners, deadlines, risks, and the 1–2 hard conversations that fall out of the week.
+2. **Every Monday**, paste those notes in and ask for next week's operating plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, risks, and the 1–2 hard conversations the week is pointing to.
 
-That single habit — Friday inputs → Monday plan → repeat — is where the toolkit pays for itself. The feedback and decision-brief generators are the highest-leverage one-off uses: they handle exactly the tasks managers most avoid and most often do poorly.
+That single habit — Friday inputs → Monday plan → repeat — is where the toolkit pays for itself. Ten minutes a week, and nothing falls through the cracks. The feedback and decision-brief generators are the highest-leverage one-off uses, pulled in exactly when the week calls for them.
 
-**Who gets the most from it:** new or first-time managers (it supplies judgment they're still building) and time-poor managers who want structure fast. Its output quality scales with the quality of the facts you feed it.
+**Who it's for:** any manager who runs a team and refuses to do it from memory — first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more surface area you carry, the more the drift-catching is worth.) Its output quality scales with the quality of the facts you feed it.
 
 ## What it's for / not for
 
