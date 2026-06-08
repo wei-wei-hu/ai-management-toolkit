@@ -24,17 +24,6 @@ This toolkit isn't really about the templates — those are easy to find. Its va
 - **It forces accountability.** Every decision and action item must carry an owner, a deadline, and a follow-up.
 - **It keeps feedback fair and defensible.** It separates facts, impact, expectations, and support — the structure that keeps hard conversations grounded and out of trouble.
 
-## Best way to use it
-
-The highest-value use isn't a one-off prompt — it's a weekly habit:
-
-1. **Every Friday**, jot three things: what the team finished, what got blocked or missed, and who needs recognition, feedback, or support.
-2. **Every Monday**, paste those notes in and ask for next week's operating plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, risks, and the 1–2 hard conversations the week is pointing to.
-
-That single habit — Friday inputs → Monday plan → repeat — is where the toolkit pays for itself. Ten minutes a week, and nothing falls through the cracks. The feedback and decision-brief generators are the highest-leverage one-off uses, pulled in exactly when the week calls for them.
-
-**Who it's for:** any manager who runs a team and refuses to do it from memory — first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more surface area you carry, the more the drift-catching is worth.) Its output quality scales with the quality of the facts you feed it.
-
 ## What it's for / not for
 
 This skill helps you **draft and organize** management thinking. It does not make decisions for you, and it is not a substitute for HR, legal, or company process. Sensitive matters — performance actions, compensation, terminations — need human review and policy checks. You own every decision.
@@ -65,7 +54,9 @@ The routine maps onto a normal workweek, so each day has one clear management jo
 | **Thursday** | Make decisions and adjust work |
 | **Friday** | Review performance and prepare next week |
 
-Friday's review becomes Monday's starting point — that's the loop. With continuity turned on (see above), Monday also reads last week, so unfinished work, repeat blockers, and overdue check-ins carry over instead of getting lost.
+In practice it's two small habits. **Every Friday**, jot three things: what got done, what's stuck, who needs attention. **Every Monday**, paste those in and ask for the week's plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, and the 1–2 hard conversations the week is pointing to. Ten minutes a week, and nothing falls through the cracks.
+
+**Who it's for:** any manager who runs a team and refuses to do it from memory — first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more surface area you carry, the more the drift-catching is worth.)
 
 ## What's inside
 
