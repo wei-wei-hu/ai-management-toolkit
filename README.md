@@ -90,6 +90,30 @@ The toolkit's highest-value feature is that it can build on last week instead of
 
 See `resources/weekly-continuity.md` for the full logic. Keep real journal entries private if your repo is public — they describe real people.
 
+## Example
+
+**You give it** last week's saved plan plus three Friday notes:
+
+> *Maya still hasn't shipped the QA checklist, Sam's vendor API is finally unblocked, Priya is exhausted.*
+
+**It produces** this week's plan, opening with a continuity summary:
+
+```
+## Continuity summary (vs. week of 2026-06-08)
+- Carried forward: 1 item — now slipping a 4th week (Maya's QA checklist)
+- Repeat blockers: 0 open — vendor API resolved this week
+- People needing attention: Priya (~4 weeks, no 1:1, exhausted — urgent)
+- Closed since last week: vendor API unblocked, Sam's integration moving
+
+## Top priorities
+1. Blocker conversation with Maya — do NOT just re-deadline the checklist
+   (it has slipped 4 weeks; another date won't fix what 3 dates didn't).
+2. Check in with Priya this week — burnout signal, not a scheduling gap.
+3. Get Sam's now-unblocked integration to done while momentum is there.
+```
+
+Notice what a one-shot prompt can't do: it caught the **4-week slip** and told you to talk, not re-deadline; **closed the loop** on the repeat blocker; and **counted the weeks** since Priya's last 1:1 to flag burnout — every flag traced to recorded facts, nothing invented.
+
 ## Usage examples
 
 - "Here are my messy Friday notes — build next week's manager plan."
