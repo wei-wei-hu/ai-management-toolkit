@@ -4,6 +4,31 @@ Practical AI management toolkit: weekly planning, meeting agendas, feedback scri
 
 A Claude skill for small-team managers. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews.
 
+## Why this exists
+
+Most management work fails in the same two places: details get invented or forgotten, and decisions never get a clear owner or deadline. This toolkit isn't really about the templates — those are easy to find. Its value is the **guardrails** built into how it works:
+
+- **It never fabricates.** It uses only the facts you give it, and refuses to invent employee behavior, performance history, or HR details. (The most common — and most damaging — failure mode of AI for management.)
+- **It forces accountability.** Every decision and action item must carry an owner, a deadline, and a follow-up.
+- **It keeps feedback fair and defensible.** It separates facts, impact, expectations, and support — the structure that keeps hard conversations grounded and out of trouble.
+
+Think of it as a **judgment scaffold**: it encodes what an experienced manager does instinctively, so a busy or newer manager can produce usable, responsible outputs in minutes.
+
+## Best way to use it
+
+The highest-value loop is the weekly one:
+
+1. **Every Friday**, jot three things: what the team finished, what got blocked or missed, and who needs recognition, feedback, or support.
+2. **Every Monday**, paste those notes in and ask for next week's operating plan. The skill turns them into priorities, owners, deadlines, risks, and the 1–2 hard conversations that fall out of the week.
+
+That single habit — Friday inputs → Monday plan → repeat — is where the toolkit pays for itself. The feedback and decision-brief generators are the highest-leverage one-off uses: they handle exactly the tasks managers most avoid and most often do poorly.
+
+**Who gets the most from it:** new or first-time managers (it supplies judgment they're still building) and time-poor managers who want structure fast. Its output quality scales with the quality of the facts you feed it.
+
+## What it's for / not for
+
+This skill helps you **draft and organize** management thinking. It does not make decisions for you, and it is not a substitute for HR, legal, or company process. Sensitive matters — performance actions, compensation, terminations — need human review and policy checks. You own every decision.
+
 ## What it does
 
 The skill follows a weekly operating process:
