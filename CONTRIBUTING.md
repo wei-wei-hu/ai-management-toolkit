@@ -2,7 +2,7 @@
 
 Thanks for your interest in the AI Management Toolkit.
 
-This project is shared under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — **Attribution, NonCommercial, NoDerivatives**. Because the license does not permit distributing modified versions, this repository does **not** accept pull requests that change or extend the toolkit. That keeps the published version canonical and consistent with the license.
+This project is shared under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/): **Attribution, NonCommercial, NoDerivatives**. Because the license does not permit distributing modified versions, this repository does **not** accept pull requests that change or extend the toolkit. That keeps the published version canonical and consistent with the license.
 
 What is very welcome:
 
@@ -20,7 +20,7 @@ Good issues include: what you asked the skill, what it produced, and what you ex
 
 ## Using it yourself
 
-You're free to **use** the toolkit for your own non-commercial management work and to **share** it with attribution. You just can't sell it or publish a modified version. For anything beyond that — commercial use, or distributing an adapted version — contact the author for permission.
+You're free to **use** the toolkit for your own non-commercial management work and to **share** it with attribution. You just can't sell it or publish a modified version. For anything beyond that, such as commercial use or distributing an adapted version, contact the author for permission.
 
 ## Maintainer
 

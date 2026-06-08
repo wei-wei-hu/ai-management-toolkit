@@ -1,6 +1,6 @@
 # Weekly Continuity
 
-This resource closes the weekly loop. The rest of the toolkit produces a fresh plan each week from whatever the manager pastes in. That works, but it forgets. Continuity makes each week aware of the last one — so incomplete work carries forward, repeat blockers get noticed, and no person silently goes weeks without a check-in.
+This resource closes the weekly loop. The rest of the toolkit produces a fresh plan each week from whatever the manager pastes in. That works, but it forgets. Continuity makes each week aware of the last one, so incomplete work carries forward, repeat blockers get noticed, and no person silently goes weeks without a check-in.
 
 Use this whenever the manager has at least one prior weekly plan saved (see the `journal/` convention below). On the very first week there is nothing to compare against, so just produce a normal plan and save it as the first journal file.
 
@@ -26,21 +26,21 @@ When the manager starts a new week, read the **most recent** journal file before
 ### 1. Carry forward unfinished work
 Compare last week's planned items against what the manager reports as completed. Anything planned but not done is **carried forward automatically** into this week, marked clearly:
 
-> `[CARRIED] Ship billing QA checklist — Maya — originally due last week`
+> `[CARRIED] Ship billing QA checklist | Maya | originally due last week`
 
 Never silently drop an item. If the manager wants to cancel a carried item, make them say so explicitly.
 
 ### 2. Flag slipping work (the repeat-miss signal)
 Track how many weeks an item has been carried. Surface the count, because a task slipping for the third week is a different problem than one slipping for the first:
 
-> `[CARRIED x3] Ship billing QA checklist — Maya — slipped 3 weeks. This is now a pattern, not a one-off. Recommend a blocker conversation, not another deadline.`
+> `[CARRIED x3] Ship billing QA checklist | Maya | slipped 3 weeks. This is now a pattern, not a one-off. Recommend a blocker conversation, not another deadline.`
 
-This is the single most valuable thing continuity provides — it catches drift a one-shot plan cannot see.
+This is the single most valuable thing continuity provides. It catches drift a one-shot plan cannot see.
 
 ### 3. Detect repeat blockers
 Compare this week's blockers against prior weeks. If the same blocker (same dependency, vendor, system, or hand-off) appears in 2+ consecutive weeks, escalate it:
 
-> `[REPEAT BLOCKER] Vendor API keys have blocked Sam for 2 weeks running. A second weekly slip means the fix isn't working — escalate to the vendor owner or change approach.`
+> `[REPEAT BLOCKER] Vendor API keys have blocked Sam for 2 weeks running. A second weekly slip means the fix isn't working. Escalate to the vendor owner or change approach.`
 
 ### 4. Track people cadence
 Keep a running record of who received a 1:1, feedback, or recognition, and when. Flag anyone who has gone too long without a touchpoint:
@@ -58,8 +58,8 @@ When continuity is active, open the weekly plan with a short carry-over summary 
 
 ```
 ## Continuity summary (vs. week of [last Monday])
-- Carried forward: 2 items (1 slipping 3+ weeks — see Maya)
-- Repeat blockers: 1 (vendor API — week 2)
+- Carried forward: 2 items (1 slipping 3+ weeks, see Maya)
+- Repeat blockers: 1 (vendor API, week 2)
 - People needing attention: Priya (no 1:1 in 3 weeks)
 - Closed since last week: 4 items
 ```
@@ -68,7 +68,7 @@ Then produce the normal weekly operating plan beneath it.
 
 ## Guardrails
 
-- Only carry forward and flag based on **facts in the journal files and what the manager reports** — never invent a slip, a blocker, or a missed 1:1 that is not recorded.
+- Only carry forward and flag based on **facts in the journal files and what the manager reports**. Never invent a slip, a blocker, or a missed 1:1 that is not recorded.
 - If no prior journal file exists, say so and produce a normal first-week plan. Do not fabricate a history.
 - Continuity tracks patterns; it does not judge people. A repeat slip is a prompt for a conversation, not a verdict. Apply the same fairness guardrails as the feedback and performance resources.
 

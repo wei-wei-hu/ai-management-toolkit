@@ -47,7 +47,7 @@ These rules apply the method and safety guardrails in `resources/source-method.m
 - For decisions, name the recommendation, trade-offs, risks, evidence gaps, and next step.
 - For meetings, force every decision and action item to include owner, deadline, and follow-up mechanism.
 - For weekly planning, always connect Friday inputs to Monday planning: completed work, blocked/missed work, and people who need recognition, feedback, or support.
-- When a prior weekly plan exists in `journal/`, use `resources/weekly-continuity.md`: read the most recent journal file, carry forward unfinished work, flag tasks slipping multiple weeks and repeat blockers, surface anyone overdue for a 1:1, and save the new plan as `journal/YYYY-MM-DD-week.md`. Only carry forward or flag based on recorded facts — never invent a slip, blocker, or missed check-in.
+- When a prior weekly plan exists in `journal/`, use `resources/weekly-continuity.md`: read the most recent journal file, carry forward unfinished work, flag tasks slipping multiple weeks and repeat blockers, surface anyone overdue for a 1:1, and save the new plan as `journal/YYYY-MM-DD-week.md`. Only carry forward or flag based on recorded facts. Never invent a slip, blocker, or missed check-in.
 - Remind the user that sensitive HR, legal, compensation, and termination decisions need human review and appropriate company policy checks.
 - Avoid vague management language. Make outputs usable by a busy manager this week.
 

@@ -1,6 +1,6 @@
 # Journal
 
-This folder holds one file per week — the saved weekly operating plans that let the toolkit close its loop. Each Monday's plan reads the most recent file here, carries forward unfinished work, and flags repeat blockers and overdue check-ins. See `resources/weekly-continuity.md` for the full logic.
+This folder holds one file per week, the saved weekly operating plans that let the toolkit close its loop. Each Monday's plan reads the most recent file here, carries forward unfinished work, and flags repeat blockers and overdue check-ins. See `resources/weekly-continuity.md` for the full logic.
 
 ## Convention
 
@@ -44,11 +44,11 @@ Copy this template for each new week (or let the skill generate it):
 -
 ```
 
-The `Status`, `Weeks carried`, and `First seen` fields are what make carry-forward and repeat-blocker detection work — keep them filled in.
+The `Status`, `Weeks carried`, and `First seen` fields are what make carry-forward and repeat-blocker detection work, so keep them filled in.
 
 ## A note on what to commit
 
-These files describe real work and real people. If your repository is public, **do not commit real journal entries** — keep them local, or use a private repo. The included `example-week.md` uses fictional names for illustration only.
+These files describe real work and real people. If your repository is public, **do not commit real journal entries**. Keep them local, or use a private repo. The included `example-week.md` uses fictional names for illustration only.
 
 ---
 
