@@ -2,6 +2,12 @@
 
 Practical AI management toolkit: weekly planning, meeting agendas, feedback scripts, performance reviews, and decision briefs.
 
+### ▶ Watch the walkthrough
+
+[![Get Started with AI Management Toolkit — from prompting to weekly workflow](https://img.youtube.com/vi/bfuYtxOIIKE/hqdefault.jpg)](https://youtube.com/shorts/bfuYtxOIIKE)
+
+*From one-off prompting to a weekly operating workflow — a quick look at how it works.*
+
 A Claude skill for managers who'd rather run their team deliberately than from memory. It turns scattered notes, tasks, meetings, feedback moments, blockers, and decisions into usable management outputs — weekly operating plans, meeting agendas, feedback scripts, decision briefs, and performance reviews — and it remembers across weeks so nothing quietly drifts.
 
 ## Why this exists
