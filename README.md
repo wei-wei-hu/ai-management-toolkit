@@ -21,7 +21,7 @@ It routes each request to the right template — SMART goals, WBS, RACI, SWOT, 5
 This is a personal Claude Code skill. Drop the folder into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/ai-management-toolkit.git \
+git clone https://github.com/wei-wei-hu/ai-management-toolkit.git \
   ~/.claude/skills/ai-management-toolkit
 ```
 
