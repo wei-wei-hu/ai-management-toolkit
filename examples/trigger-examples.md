@@ -20,3 +20,7 @@ These examples should not trigger the skill unless the user asks for management 
 3. "Create a travel itinerary."
 4. "Debug this Python function."
 5. "Design a brand logo."
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

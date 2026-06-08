@@ -38,3 +38,7 @@ Convert them into this structure first:
 | Next actions |  |  |
 
 Then choose the correct toolkit resource.
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

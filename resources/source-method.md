@@ -33,3 +33,7 @@ The package focuses on seven recurring jobs of a small-team manager:
 - Use facts, examples, outcomes, and observed behaviors.
 - Separate performance issues from system issues. A missed deadline may come from workload, dependency, unclear scope, skill gap, or accountability.
 - When data is incomplete, label the uncertainty and recommend what to verify.
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

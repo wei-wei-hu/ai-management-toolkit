@@ -83,3 +83,7 @@ Trigger rule:
 | If progress is off target by [X%] |  |
 | If blocker remains unresolved for [X days] |  |
 | If quality drops below [standard] |  |
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

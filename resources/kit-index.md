@@ -27,3 +27,7 @@ Every Friday, save three things:
 3. Who needs recognition, feedback, or support.
 
 Every Monday, paste those three things into AI and ask it to create the weekly operating plan.
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

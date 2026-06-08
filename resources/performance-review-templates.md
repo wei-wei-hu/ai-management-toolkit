@@ -77,3 +77,7 @@ Readiness summary:
 | 60-day action |  |
 | 90-day action |  |
 | Success evidence |  |
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

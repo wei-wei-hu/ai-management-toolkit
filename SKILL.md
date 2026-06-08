@@ -86,3 +86,7 @@ Use `resources/feedback-scripts.md` and `resources/meeting-templates.md`. Output
 User asks: "Should we cut scope or add one contractor to hit the launch date?"
 
 Use `resources/decision-templates.md`. Output an option comparison, recommendation, risks, and next step.
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

@@ -41,3 +41,7 @@ Use these scripts as starting points. Replace placeholders with facts. Keep empl
 ## Feedback Script 10: Feedback During Performance Concern
 
 "I want to be direct because I want you to have a fair chance to improve. The current performance concern is [gap], shown by [examples]. The expected standard is [standard]. We will support you through [support], and we will review progress on [dates]. Improvement means [measurable evidence]. If the gap continues, we will need to follow the appropriate company process."
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

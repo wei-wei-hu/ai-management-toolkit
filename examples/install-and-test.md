@@ -44,3 +44,7 @@ Use the AI Management Toolkit. Turn these meeting notes into decisions, action i
 Use the AI Management Toolkit. Review this team's workload and rebalance assignments.
 [Paste team/workload]
 ```
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/

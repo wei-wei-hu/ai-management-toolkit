@@ -78,3 +78,7 @@
 | Team member | Current priorities | Estimated load | Skill fit | Risk of overload | Possible support | Manager note |
 |---|---|---|---|---|---|---|
 |  |  | Low/Med/High | Strong/Moderate/Weak | Low/Med/High |  |  |
+
+---
+
+© 2026 Weiwei Hu · Licensed under CC BY-NC-ND 4.0 · No commercial use or distribution of modified versions. https://creativecommons.org/licenses/by-nc-nd/4.0/
