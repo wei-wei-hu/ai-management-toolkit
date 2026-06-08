@@ -6,3 +6,9 @@
 # Keep them out of the repo (especially if public). The README and the
 # fictional example-week.md are intentionally tracked.
 journal/[0-9]*-week.md
+
+# Video / large media. Host these externally (LinkedIn, YouTube, or a
+# GitHub Release asset) and link from the README — don't bloat git history.
+*.mp4
+*.mov
+*.m4v
