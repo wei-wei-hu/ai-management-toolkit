@@ -4,7 +4,7 @@ Practical AI management toolkit: weekly planning, meeting agendas, feedback scri
 
 ### ▶ Get Started with AI Management Toolkit
 
-<a href="https://youtube.com/shorts/irxs6412tu0"><img src="docs/video-thumbnail.png" alt="Get Started with AI Management Toolkit" width="480"></a>
+<a href="https://youtube.com/shorts/9ZER-SAf6n0"><img src="docs/video-thumbnail.png" alt="Get Started with AI Management Toolkit" width="480"></a>
 
 *From one-off prompting to a weekly operating workflow. A quick look at how it works.*
 
