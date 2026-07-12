@@ -14,7 +14,7 @@ A Claude skill for managers who'd rather run their team deliberately than from m
 
 The hard part of managing usually isn't *making* the plan. It's the **follow-through and pattern-recognition** that come after. A task that's quietly slipped a few weeks. A report you haven't had a real 1:1 with in a while. A blocker that's been "handled" for a couple of weeks. These are easy to lose track of in any single week, and they tend to show up only when you look across several. When you're holding it all in your head, some of it slips.
 
-The templates in here are useful, but they're easy to find elsewhere. The part that's harder to do on your own is two things:
+The templates in here are useful, but they're easy to find elsewhere. What's harder to do on your own comes down to two things:
 
 **Continuity: it keeps track week to week.** Each week builds on the last. Unfinished work carries forward, tasks slipping several weeks get flagged as a pattern rather than just re-deadlined, repeat blockers get surfaced, and anyone overdue for a 1:1 gets noted before it becomes a problem.
 
@@ -64,7 +64,7 @@ It's a concrete set of ready-to-use building blocks the skill routes between:
 
 - **30 prompts** for planning, meetings, blockers, feedback, decisions, recognition, workload balance, and weekly reflection.
 - **10 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, and employee development.
-- **10 feedback scripts** for praise, teamwork, problem-solving, missed deadlines, quality issues, communication gaps, prioritization, leadership growth, and performance concerns.
+- **10 feedback scripts** for praise, teamwork, problem-solving, missed deadlines, quality issues, communication gaps, conflict, prioritization, leadership growth, and performance concerns.
 - **10 work planning templates** using SMART goals, WBS, RACI, progress tracking, project risk planning, and team capacity.
 - **5 decision templates** using SWOT, 5W2H, option comparison, root-cause analysis, and PDCA.
 - **5 performance review templates** for annual reviews, quarterly check-ins, promotion readiness, performance improvement, and employee growth.

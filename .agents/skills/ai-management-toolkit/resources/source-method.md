@@ -1,6 +1,6 @@
 # Source Method
 
-This toolkit converts the management handbook's recurring approach into a practical operating system.
+This toolkit converts a recurring set of management practices into a practical operating system.
 
 ## Core method
 

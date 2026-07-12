@@ -142,6 +142,7 @@ Use these scripts:
 - Feedback Script 4: Feedback on Missed Deadline
 - Feedback Script 5: Feedback on Low Quality Work
 - Feedback Script 6: Feedback on Communication Gaps
+- Feedback Script 7: Feedback on Conflict or Resistance
 - Feedback Script 8: Feedback on Prioritization
 - Feedback Script 9: Feedback on Leadership Growth
 - Feedback Script 10: Feedback During Performance Concern

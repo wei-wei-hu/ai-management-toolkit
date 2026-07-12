@@ -9,7 +9,8 @@ ai-management-toolkit.zip
 └── ai-management-toolkit/
     ├── SKILL.md
     ├── resources/
-    └── examples/
+    ├── examples/
+    └── journal/README.md   # the continuity file format that weekly-continuity.md depends on
 ```
 
 ## Suggested upload steps in Claude.ai

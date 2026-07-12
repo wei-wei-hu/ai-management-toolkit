@@ -1,6 +1,6 @@
 # AI Management Toolkit - Package Index
 
-This package turns the management content into a reusable AI skill for small-team managers.
+This package turns a recurring set of field-tested management practices into a reusable AI skill for small-team managers.
 
 ## What is inside
 
@@ -13,6 +13,7 @@ This package turns the management content into a reusable AI skill for small-tea
 7. `weekly-operating-map.md` - the weekly routine that connects the full toolkit into a real management workflow.
 8. `manager-input-intake.md` - a simple intake format for messy notes.
 9. `source-method.md` - the operating logic behind the package.
+10. `weekly-continuity.md` - the week-over-week loop: carry-forward, slip detection, repeat blockers, and 1:1 cadence.
 
 ## Best use
 
