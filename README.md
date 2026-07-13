@@ -148,6 +148,20 @@ This is the kind of thing a single prompt tends to miss: it caught the **4-week 
 
 This skill helps draft and organize management work. Sensitive HR, legal, compensation, and termination decisions require human review and appropriate company policy checks. The manager owns every decision.
 
+## About the author
+
+The AI Management Toolkit is created by [Weiwei Hu](https://www.linkedin.com/in/weiweihu/), who works at the intersection of big data, AI, and business decision-making. She is currently Director of Big Data, Insights & Strategy at HP, leading Print AI transformation programs including agentic AI workflow enablement, and writing about practical AI adoption for senior executives. She is the author of *Generative Engine Optimization (GEO): The Complete Playbook for Leaders to Win in AI Search*.
+
+She has spent her career leading global, cross-functional teams, and this toolkit comes from that side of the job: the weekly planning, one-on-ones, feedback conversations, and follow-through that managing people takes, on top of the projects themselves.
+
+Connect with her:
+
+- LinkedIn: [linkedin.com/in/weiweihu](https://www.linkedin.com/in/weiweihu/)
+- Personal site: [weiweihu.carrd.co](https://weiweihu.carrd.co/)
+- Articles on Towards Data Science: [towardsdatascience.com/author/weiwei-hu](https://towardsdatascience.com/author/weiwei-hu/)
+
+If this toolkit made one of your weeks easier to run, she would love to hear how.
+
 ## License
 
 © 2026 Weiwei Hu. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
