@@ -12,3 +12,7 @@ journal/[0-9]*-week.md
 *.mp4
 *.mov
 *.m4v
+
+# Generated Codex/OpenAI skill copy. Root files are canonical; regenerate
+# locally with scripts/sync_codex.sh when needed. Don't commit the mirror.
+.agents/
