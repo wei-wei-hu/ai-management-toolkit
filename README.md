@@ -63,13 +63,13 @@ In practice it's two small habits. **Every Friday**, jot three things: what got 
 It's a concrete set of ready-to-use building blocks the skill routes between:
 
 - **30 prompts** for planning, meetings, blockers, feedback, decisions, recognition, workload balance, and weekly reflection.
-- **10 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, and employee development.
+- **11 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, employee development, and running your own 1:1 with your manager.
 - **10 feedback scripts** for praise, teamwork, problem-solving, missed deadlines, quality issues, communication gaps, conflict, prioritization, leadership growth, and performance concerns.
 - **10 work planning templates** using SMART goals, WBS, RACI, progress tracking, project risk planning, and team capacity.
 - **5 decision templates** using SWOT, 5W2H, option comparison, root-cause analysis, and PDCA.
 - **5 performance review templates** for annual reviews, quarterly check-ins, promotion readiness, performance improvement, and employee growth.
 
-That's **30 prompts and 40 templates and scripts**, plus one weekly routine that ties them together.
+That's **30 prompts and 41 templates and scripts**, plus one weekly routine that ties them together.
 
 ## Install
 

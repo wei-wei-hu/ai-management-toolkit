@@ -5,7 +5,7 @@ This package turns a recurring set of field-tested management practices into a r
 ## What is inside
 
 1. `prompt-library.md` - 30 daily management prompts.
-2. `meeting-templates.md` - 10 meeting templates.
+2. `meeting-templates.md` - 11 meeting templates.
 3. `feedback-scripts.md` - 10 employee feedback scripts.
 4. `work-planning-templates.md` - 10 work planning templates.
 5. `decision-templates.md` - 5 decision-making templates.

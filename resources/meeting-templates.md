@@ -1,4 +1,4 @@
-# 10 Meeting Templates
+# 11 Meeting Templates
 
 ## Meeting Template 1: Weekly Team Meeting
 
@@ -104,6 +104,35 @@
 | Practice | What stretch assignment can build the gap? |
 | Support | What coaching, training, or mentoring is needed? |
 | Output | Growth plan with 30/60/90-day actions. |
+
+## Meeting Template 11: Your 1:1 With Your Manager (Managing Up)
+
+Use this when you are the one being managed. A 1:1 is not a status report. Your manager already saw your weekly update. This is your time, a rare stretch where they are fully listening, so use it to show the value you are creating and to shape how they see your growth. Four simple moves:
+
+| Move | The common way (skip this) | A warmer, clearer way to say it |
+|---|---|---|
+| 1. Open with your impact | "This week I worked on..." and then a list of tasks | "The biggest difference I made this week was [result]. It helped [who or which goal], and now [what changed]." |
+| 2. Ask for one clear piece of feedback | "Any feedback for me?" | "On [the thing you did this week], I tried [a new approach]. Did that work well, or would you do it a bit differently next time?" |
+| 3. Turn a need into a team win | Staying quiet, or "I'd love to help if there's ever a chance" | "I noticed [project or team] could use a hand with [X]. I've done [something similar] before, so I think I could pitch in. Could I join [the next step]?" |
+| 4. Close on the next checkpoint | "Okay, that's everything. Thanks." | "So to recap: I'll focus on [X] this month and update you on [Y] next time. I'm working toward [goal], and I'd love to check in on [growth or a promotion] when the time feels right." |
+
+Why these small changes matter:
+
+- Opening with your impact instead of your task list changes the whole tone. You come across as someone creating value, not someone whose work needs tracking.
+- A specific feedback question is easy for your manager to answer well, and it shows you are deliberately working on a skill.
+- Framing a need as a team benefit makes it easy to say yes. You are offering a solution, not asking for a favor.
+- Ending on a checkpoint keeps your growth on their radar and ties today's talk to where you are headed.
+
+A simple agenda to bring, instead of a list of task updates:
+
+1. The biggest result you created this week.
+2. One skill you are practicing, and the feedback you want on it.
+3. One thing you need from your manager so you can do more.
+4. Your next growth goal.
+
+Keep it honest. Lead with real results and real numbers. This is about choosing the angle your manager cares about, like whether the project stays on track, not about inflating what you did. If it was a quiet week, share what you learned or unblocked instead. Never invent a result.
+
+For managers: you can share this template with someone on your team who freezes up in 1:1s or gives you a flat status report. It hands them a simple, confident way to use the time well, and it makes the conversation more useful for both of you.
 
 ---
 
