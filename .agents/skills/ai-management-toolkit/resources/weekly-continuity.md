@@ -26,26 +26,26 @@ When the manager starts a new week, read the **most recent** journal file before
 ### 1. Carry forward unfinished work
 Compare last week's planned items against what the manager reports as completed. Anything planned but not done is **carried forward automatically** into this week, marked clearly:
 
-> `[CARRIED] Ship billing QA checklist | Maya | originally due last week`
+> `[CARRIED] Ship billing QA checklist | Teammate A | originally due last week`
 
 Never silently drop an item. If the manager wants to cancel a carried item, make them say so explicitly.
 
 ### 2. Flag slipping work (the repeat-miss signal)
 Track how many weeks an item has been carried. Surface the count, because a task slipping for the third week is a different problem than one slipping for the first:
 
-> `[CARRIED x3] Ship billing QA checklist | Maya | slipped 3 weeks. This is now a pattern, not a one-off. Recommend a blocker conversation, not another deadline.`
+> `[CARRIED x3] Ship billing QA checklist | Teammate A | slipped 3 weeks. This is now a pattern, not a one-off. Recommend a blocker conversation, not another deadline.`
 
 This is the single most valuable thing continuity provides. It catches drift a one-shot plan cannot see.
 
 ### 3. Detect repeat blockers
 Compare this week's blockers against prior weeks. If the same blocker (same dependency, vendor, system, or hand-off) appears in 2+ consecutive weeks, escalate it:
 
-> `[REPEAT BLOCKER] Vendor API keys have blocked Sam for 2 weeks running. A second weekly slip means the fix isn't working. Escalate to the vendor owner or change approach.`
+> `[REPEAT BLOCKER] Vendor API keys have blocked Teammate B for 2 weeks running. A second weekly slip means the fix isn't working. Escalate to the vendor owner or change approach.`
 
 ### 4. Track people cadence
 Keep a running record of who received a 1:1, feedback, or recognition, and when. Flag anyone who has gone too long without a touchpoint:
 
-> `[PEOPLE] Priya has had no 1:1 in 3 weeks and covered support solo twice. Schedule a check-in this week before this becomes burnout.`
+> `[PEOPLE] Teammate C has had no 1:1 in 3 weeks and covered support solo twice. Schedule a check-in this week before this becomes burnout.`
 
 Default threshold: flag anyone with no 1:1 or feedback in 3+ weeks. The manager can adjust.
 
@@ -58,9 +58,9 @@ When continuity is active, open the weekly plan with a short carry-over summary 
 
 ```
 ## Continuity summary (vs. week of [last Monday])
-- Carried forward: 2 items (1 slipping 3+ weeks, see Maya)
+- Carried forward: 2 items (1 slipping 3+ weeks, see Teammate A)
 - Repeat blockers: 1 (vendor API, week 2)
-- People needing attention: Priya (no 1:1 in 3 weeks)
+- People needing attention: Teammate C (no 1:1 in 3 weeks)
 - Closed since last week: 4 items
 ```
 
