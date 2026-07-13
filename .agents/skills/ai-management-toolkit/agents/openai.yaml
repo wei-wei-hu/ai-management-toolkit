@@ -1,7 +1,0 @@
-interface:
-  display_name: "AI Management Toolkit"
-  short_description: "Practical toolkit for small-team managers: planning, meetings, feedback, coaching, decisions"
-  brand_color: "#2E5E4E"
-  default_prompt: "Use $ai-management-toolkit to plan the week, prepare a one-on-one, or turn messy team notes into an operating plan."
-policy:
-  allow_implicit_invocation: true
