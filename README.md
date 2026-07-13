@@ -16,17 +16,17 @@ The hard part of managing usually isn't *making* the plan. It's the **follow-thr
 
 The templates in here are useful, but they're easy to find elsewhere. What's harder to do on your own comes down to two things:
 
-**Continuity: it keeps track week to week.** Each week builds on the last. Unfinished work carries forward, tasks slipping several weeks get flagged as a pattern rather than just re-deadlined, repeat blockers get surfaced, and anyone overdue for a 1:1 gets noted before it becomes a problem.
+**Continuity: it keeps track week to week.** Each week picks up where the last one left off. Unfinished work carries forward, tasks slipping several weeks get flagged as a pattern rather than just re-deadlined, repeat blockers get surfaced, and anyone overdue for a 1:1 gets noted before it becomes a problem.
 
 **Guardrails: it stays grounded and accountable.**
 
 - **It doesn't make things up.** It uses only the facts you give it, and won't invent employee behavior, performance history, or HR details. (A common pitfall when using AI for people decisions.)
-- **It builds in accountability.** Each decision and action item carries an owner, a deadline, and a follow-up.
+- **Every action gets an owner.** Each decision and action item leaves the conversation with an owner, a deadline, and a follow-up.
 - **It keeps feedback fair and grounded.** It separates facts, impact, expectations, and support, which helps hard conversations stay specific and fair.
 
 ## What it's for / not for
 
-This skill helps you **draft and organize** management thinking. It does not make decisions for you, and it is not a substitute for HR, legal, or company process. Sensitive matters like performance actions, compensation, and terminations need human review and policy checks. You own every decision.
+This skill helps you **draft and organize** management thinking. It does not make decisions for you, and it is not a substitute for HR, legal, or company process. Sensitive decisions like performance actions, compensation, and terminations need human review and policy checks. You own every decision.
 
 ## What it does
 
@@ -44,7 +44,7 @@ It routes each request to the right template: SMART goals, WBS, RACI, SWOT, 5W2H
 
 ## A week with the toolkit
 
-The routine maps onto a normal workweek, so each day has one clear management job:
+The routine maps onto a normal workweek, so each day has one management job:
 
 | Day | Focus |
 |---|---|
@@ -54,13 +54,13 @@ The routine maps onto a normal workweek, so each day has one clear management jo
 | **Thursday** | Make decisions and adjust work |
 | **Friday** | Review performance and prepare next week |
 
-In practice it's two small habits. **Every Friday**, jot three things: what got done, what's stuck, who needs attention. **Every Monday**, paste those in and ask for the week's plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, and the one or two conversations the week is pointing to. Ten minutes a week, and fewer things fall through the cracks.
+In practice it takes two small steps. **Every Friday**, jot three things: what got done, what's stuck, who needs attention. **Every Monday**, paste those in and ask for the week's plan. The skill reads last week, carries forward what's unfinished, flags what's drifting, and hands you priorities, owners, deadlines, and the one or two conversations the week is pointing to. Ten minutes a week, and fewer things fall through the cracks.
 
 **Who it's for:** any manager who'd rather not run their team from memory: first-time, new-to-a-team, and experienced-but-stretched alike. (If anything, the more you're juggling, the more the week-to-week tracking helps.)
 
 ## What's inside
 
-It's a concrete set of ready-to-use building blocks the skill routes between:
+It's a concrete set of ready-to-use tools the skill routes between:
 
 - **30 prompts** for planning, meetings, blockers, feedback, decisions, recognition, workload balance, and weekly reflection.
 - **11 meeting templates** for weekly meetings, one-on-ones, decision meetings, problem-solving, retrospectives, workload reviews, employee development, and running your own 1:1 with your manager.
