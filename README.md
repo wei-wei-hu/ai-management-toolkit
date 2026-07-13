@@ -117,25 +117,25 @@ Full logic lives in `resources/weekly-continuity.md`. One caution: journal entri
 
 **You give it** last week's saved plan plus three Friday notes:
 
-> *Maya still hasn't shipped the QA checklist, Sam's vendor API is finally unblocked, Priya is exhausted.*
+> *Teammate A still hasn't shipped the QA checklist, Teammate B's vendor API is finally unblocked, Teammate C is exhausted.*
 
 **It produces** this week's plan, opening with a continuity summary:
 
 ```
 ## Continuity summary (vs. week of 2026-06-08)
-- Carried forward: 1 item, now slipping a 4th week (Maya's QA checklist)
+- Carried forward: 1 item, now slipping a 4th week (Teammate A's QA checklist)
 - Repeat blockers: 0 open (vendor API resolved this week)
-- People needing attention: Priya (~4 weeks, no 1:1, exhausted, urgent)
-- Closed since last week: vendor API unblocked, Sam's integration moving
+- People needing attention: Teammate C (~4 weeks, no 1:1, exhausted, urgent)
+- Closed since last week: vendor API unblocked, Teammate B's integration moving
 
 ## Top priorities
-1. Blocker conversation with Maya. Do NOT just re-deadline the checklist
+1. Blocker conversation with Teammate A. Do NOT just re-deadline the checklist
    (it has slipped 4 weeks; another date won't fix what 3 dates didn't).
-2. Check in with Priya this week. Burnout signal, not a scheduling gap.
-3. Get Sam's now-unblocked integration to done while momentum is there.
+2. Check in with Teammate C this week. Burnout signal, not a scheduling gap.
+3. Get Teammate B's now-unblocked integration to done while momentum is there.
 ```
 
-This is the kind of thing a single prompt tends to miss: it caught the **4-week slip** and suggested talking rather than re-deadlining, **closed the loop** on the repeat blocker, and **counted the weeks** since Priya's last 1:1 to flag possible burnout. Every flag traces back to recorded facts.
+This is the kind of thing a single prompt tends to miss: it caught the **4-week slip** and suggested talking rather than re-deadlining, **closed the loop** on the repeat blocker, and **counted the weeks** since Teammate C's last 1:1 to flag possible burnout. Every flag traces back to recorded facts.
 
 ## Usage examples
 
